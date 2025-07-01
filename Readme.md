@@ -24,6 +24,10 @@
       <p>Bensar Star Academy is a center of excellence, nurturing young minds with knowledge, character, and discipline. We aim to inspire lifelong learners and responsible citizens through a balanced academic and moral 
 foundation.</p>
     </section>
+        <section id="academics">
+      <h2>Academics</h2>
+      <p>We offer a comprehensive curriculum from early years to secondary level, with a focus on critical thinking, creativity, and holistic development. Subjects include Mathematics, Science, English, Social Studies, ICT, and more.</p>
+    </section>
     
         📍 Address: 18 Bano St, Tema 
         📞 Phone: 020 570 2209 
