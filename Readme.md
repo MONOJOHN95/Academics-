@@ -34,13 +34,10 @@
       <p>Our school is staffed by dedicated, qualified teachers who are passionate about education and student growth. We believe in mentoring, not just teaching.</p>
     </section>
 
-    <section id="contact">
-      <h2>Contact Us</h2>
-      <p>
-        📍 Address: 18 Bano St, Tema <br>
+    
+        📍 Address: 18 Bano St, Tema 
         📞 Phone: 020 570 2209 
-      </p>
-    </section>
+      
   </div>
 
   <footer>
