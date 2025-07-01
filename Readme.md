@@ -3,51 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Welcome to Bensar Star Academy</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f6f8;
-      margin: 0;
-      padding: 0;
-      color: #333;
-    }
-    header {
-      background-color: #00529b;
-      color: white;
-      padding: 20px 40px;
-      text-align: center;
-    }
-    nav {
-      background-color: #003f7f;
-      padding: 10px;
-      text-align: center;
-    }
-    nav a {
-      color: white;
-      margin: 0 15px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    nav a:hover {
-      text-decoration: underline;
-    }
-    .container {
-      padding: 40px;
-    }
-    footer {
-      background-color: #00529b;
-      color: white;
-      text-align: center;
-      padding: 15px;
-      position: fixed;
-      bottom: 0;
-      width: 100%;
-    }
-    h1, h2 {
-      color: #003f7f;
-    }
-  </style>
 </head>
 <body>
 
