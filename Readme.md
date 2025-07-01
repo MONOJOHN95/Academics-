@@ -28,6 +28,11 @@ foundation.</p>
       <h2>Academics</h2>
       <p>We offer a comprehensive curriculum from early years to secondary level, with a focus on critical thinking, creativity, and holistic development. Subjects include Mathematics, Science, English, Social Studies, ICT, and more.</p>
     </section>
+      <section id="staff">
+      <h2>Our Staff</h2>
+      <p>Our school is staffed by dedicated, qualified teachers who are passionate about education and student growth. We believe in mentoring, not just teaching.</p>
+    </section>
+
     
         📍 Address: 18 Bano St, Tema 
         📞 Phone: 020 570 2209 
